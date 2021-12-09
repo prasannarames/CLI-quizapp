@@ -10,5 +10,5 @@
 
 # Instructions: 
 
- 1. Go to the repl link in the about area. (or)
+ 1. Go to the replit link in the about area. (or)
   1. click here <a href ="https://replit.com/@prasannarames/quiz-app?v=1">CLI-quizapp.   
